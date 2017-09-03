@@ -1,0 +1,70 @@
+body
+{
+    box-sizing: border-box;
+}
+
+
+
+/*start about us*/
+.breadcrumb-holder li
+{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.about-us
+{
+    padding:70px 0;
+}
+
+.about-us h1
+{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+/* start features section*/
+.about-us .feat
+{
+    margin-bottom: 20px;
+}
+
+/* end features section*/
+
+
+
+
+/* start about ceo*/
+
+
+.about-ceo h2
+{
+    font-weight: bold;
+}
+
+
+.about-ceo img
+{
+    margin-left: 110px;
+}
+
+.lead
+{
+    line-height:1.8;
+}
+
+.about-ceo button
+{
+    background: #333;
+    border-color:#333;
+}
+
+
+/* end about ceo*/
+/*end about us*/
+
+
+
+

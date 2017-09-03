@@ -1,0 +1,58 @@
+
+@media(min-width: 0px) and (max-width:767px)
+{
+   .navbar-inverse .navbar-nav > li > a 
+    {
+        padding-top: 10px;
+         padding-bottom: 10px
+    }
+   .subscribe .form-control
+    {
+        margin: 10px auto;
+    }
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height: none;
+    }
+   .navbar-right
+    {z-index: 999999}
+    
+   /* .about-ceo img
+    {margin-left: 230px;
+    margin-bottom: 40px;}
+    .about-ceo h2
+    {
+        text-align: center
+    }
+    */
+}
+@media(min-width:768px) and (max-width:991px)
+{
+   /* .about-ceo img
+    {margin-left: 230px;
+    margin-bottom: 40px;}
+    .about-ceo h2
+    {
+        text-align: center
+    }*/
+    
+    .ab
+}
+
+
+
+
+@media(min-width: 992px) and (max-width:1199px)
+{
+  
+}
+
+@media(min-width: 1200px)
+{
+    
+}
+
+
+
+
+
