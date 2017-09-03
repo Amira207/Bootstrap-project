@@ -2,7 +2,7 @@
 $(document).ready(function () {
     "use strict";
     //nicescroll
-    $("html").niceScroll();
+   // $("html").niceScroll();
     $(".carousel").carousel({
         interval: 5000
     });
